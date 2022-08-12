@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BasicFrontend</string>
+    <string name="text_name">José Pablo Kiesling Lange</string>
+    <string name="actualizacion_disponible">Actualización disponible</string>
+    <string name="descargar">Descargar</string>
+    <string name="dia">Viernes</string>
+    <string name="fecha">03 de Junio</string>
+    <string name="terminar_jornada">Terminar jornada</string>
+    <string name="nombre_restaurante">La Esquina</string>
+    <string name="direccion_restaurante">Vía 6 3-23 zona 4</string>
+    <string name="horario_restaurante">12:00PM 11:45PM</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="detalles">Detalles</string>
+</resources>
